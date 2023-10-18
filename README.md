@@ -1,5 +1,5 @@
 # AI-fixer
-use fuzz 2 fix yearly code  //AI自动维护系统   /俗称一劳永逸
+use fuzz 2 fix yearly code  //AI自动维护系统   /俗称一劳永逸 /n
 scanner for commit= 第几行 改成啥样?[line][code]
 scanner for ai-data =锚点本身+锚点的上下文+锚点的多样表示+对应区域的截图 //get-ele-byID(关闭) /相应的dom树/相应的xpath 方便冗余/ 
 scanner = matcher(相应的方法) //get-ele-byID  /herf
